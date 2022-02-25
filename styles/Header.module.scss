@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px 30px;
+
+    h2{
+        cursor: pointer;
+    }
+
+    a {
+        margin-right: 10px;
+    }
+
+    button {
+        padding: 4px 10px;
+        border: none;
+    }
+}
